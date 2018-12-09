@@ -15,5 +15,7 @@
   "bugs": {
     "url": "https://github.com/cjmartin89/fitgroupie-angular/issues"
   },
-  "homepage": "https://github.com/cjmartin89/fitgroupie-angular#readme"
+  "homepage": "https://github.com/cjmartin89/fitgroupie-angular#readme",
+  "dependencies": {
+  }
 }
